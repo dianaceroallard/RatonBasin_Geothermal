@@ -1,17 +1,16 @@
-# RatonBasin_Geothermal
+# Raton Basin Geothermal
 
-.... in progress
+Geothermal assessment using legacy data from oil and gas wells and machine learning, a case from the Central Raton Basin
 
+1. Collecting Public Data for Raton Basin 
 
-Collecting Public Data for Raton Basin 
-
-Modeling of Thermofacies using unsupervised ML algorithms 
+2. Modeling of Thermofacies using unsupervised ML algorithms
 
         - Wells - subset
         - Propagation of model
         - Evaluation of model
         
-Geothermal Conceptual Model
+3. Geothermal Conceptual Model
         
 
 
