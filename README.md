@@ -1,17 +1,15 @@
-.... in progress
+### Raton Basin Colorado. Geothermal Data Collection. Preliminar Thermal Assessement from Oil an Gas Well Data
 
 
-Collecting Public Data for Raton Basin 
+#### 1. Visualization of public geothermal data for Raton Basin 
 
-Analysis of New Data (>2009)
+#### 2. Extraction and analysis of well data, formation tops, electric logs
 
-Geotermal Conceptual Model
+#### 3. Classify Thermofacies using unsupervised machine learning algorithms 
 
-Modeling of Thermofacies using unsupervised ML algorithms 
+#### 4. Geotermal Conceptual Model for basin
 
-        - Wells - subset
-        - Propagation of model
-        - Evaluation of model
+
         
         
 
