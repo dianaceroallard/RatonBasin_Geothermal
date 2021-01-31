@@ -1,5 +1,3 @@
-# RatonBasin_Geothermal
-
 .... in progress
 
 
@@ -14,6 +12,7 @@ Modeling of Thermofacies using unsupervised ML algorithms
         - Wells - subset
         - Propagation of model
         - Evaluation of model
+        
         
 
 
